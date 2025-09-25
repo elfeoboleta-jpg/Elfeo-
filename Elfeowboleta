@@ -1,0 +1,18 @@
+Boletastudio/
+├── index.html
+├── freestyle.html
+├── ranking.html
+├── exportar.html
+├── compas.html
+├── style.css
+├── /beats/
+│   └── beat1.mp3
+├── /assets/
+│   └── boletastudio-portada.jpgindex.html
+freestyle.html
+ranking.html
+exportar.html
+compas.html
+style.css
+/assets/boletastudio-portada.jpg
+/beats/beat1.mp3
